@@ -1,0 +1,11 @@
+.padre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.contenedor{
+    width: 255px;
+    height: 255px;
+}
